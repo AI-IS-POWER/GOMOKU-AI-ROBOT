@@ -7,5 +7,5 @@ Note that this code only works on Windows
 ```Windows Cmd
 git clone https://github.com/AI-IS-POWER/GOMOKU-AI-ROBOT
 cd GOMOKU-AI-ROBOT
-gccMain.cpp -o Main.exe
+gcc Main.cpp -o Main.exe
 ```
